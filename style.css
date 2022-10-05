@@ -1,0 +1,28 @@
+body {background-color: #94e1eb;}
+ 
+p{text-align: justify;
+font-size: 25px;
+background-color:rgb(219, 177, 210) ;} 
+h1{text-align: center;
+background-color: hsl(337, 28%, 52%);
+border: 5px groove color blue;}
+h2{text-align: left;
+    background-color: hsl(337, 28%, 52%);}
+h3{ font-size: 30px;
+    text-align: left;
+   background-color: hsl(337, 28%, 52%);}
+ 
+   #imagem-boa
+    {
+     width: 200px;
+     margin-left: 60%; 
+    border: 5px solid blue }
+
+   .local {font-size: 30px;
+         margin-right: 20%;
+         padding-left: 10%;}
+  ul {display: inline-block;       
+      vertical-aling:top:}   
+  li::marker {content "//1f60B"}      
+
+ 
